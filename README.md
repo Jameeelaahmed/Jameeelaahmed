@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JAMEELA</h1>
 
-# 💫 About Me:
+# 🎀 About Me:
 
 <h3 align="center">A passionate Frontend developer</h3>
 
