@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Frontend developer</h3>
 
 - 🔭 I’m currently working on [E-Learn](https://github.com/Jameeelaahmed/E-learn-Frontend)
   
