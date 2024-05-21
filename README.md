@@ -10,7 +10,7 @@
 
 - 💭 I’m currently learning **React**
 
-- 📫 How to reach me **gamilas320@gmail.com**
+- 📫 How to reach me **jameelaabdlruhman@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jameelaabdlruhman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jameela-ahmed-82341622a) 
