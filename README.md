@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on انطلاقة رقمية
   
-- 👩🏻‍🎓 [Computer Science] Student at  South Valley University<br/>
+- 👩🏻‍🎓 Computer Science Fresh Graduate<br/>
 
 - 💭 I’m currently learning **React**
 
