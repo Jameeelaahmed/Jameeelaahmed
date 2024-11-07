@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Frontend developer</h3>
 
-- 🔭 I’m currently working on انطلاقة رقمية
+- 🔭 I’m currently working at انطلاقة رقمية
   
 - 👩🏻‍🎓 Computer Science Fresh Graduate<br/>
 
