@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Frontend developer</h3>
 
-- 🔭 I’m currently I’m currently an intern at the ITI Cairo University branch.
+- 🔭 I’m currently an intern at the ITI Cairo University branch.
   
 - 👩🏻‍🎓 Computer Science Fresh Graduate<br/>
 
